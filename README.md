@@ -1,4 +1,8 @@
 Hey there!
+
+![images](https://github.com/user-attachments/assets/6eea046c-1db5-4e24-a2cc-6177acaa17bf)
+
+
 > You have just opened this readme file created by Iqra :). I hope you find it well!
 
 
@@ -8,4 +12,5 @@ Hey there!
  * My student ID is 24k-1024
  * My section is BCS-1J.
    
-> itss thee end of my intro 🩶
+> itss thee end of my short intro 🩶
+
